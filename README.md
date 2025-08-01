@@ -1,22 +1,19 @@
-[![Twitter Badge](https://img.shields.io/badge/-@rishavpramanik-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/RishavPramanik)](https://twitter.com/RishavPramanik)
 [![LinkedIn Badge](https://img.shields.io/badge/-rishavpramanik-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rishavpramanik/)](https://www.linkedin.com/in/rishavpramanik/)
 ![GitHub followers](https://img.shields.io/github/followers/rishavpramanik?style=social)
-![Twitter Follow](https://img.shields.io/twitter/follow/rishavpramanik?style=social)
 
-# 👋 Hi, this is Rishav Pramanik
+# 👋 Hi, this is Chenyang Zhou
 
-I’m a PhD student at **Stony Brook University, New York**, trying to figure out how to make AI a bit more sensible, controllable, and interpretable, particularly in the space of **generative models and multimodal learning**. Before this, I did my undergrad in **Computer Science & Engineering** from **Jadavpur University**, Kolkata.
+I’m a Master student at **Columbia University, New York**, trying to figure out how to make AI a bit more sensible, controllable, and interpretable, particularly in the space of **generative models and multimodal learning**. Before this, I did my undergrad in **Computer Science** from **UCSD**.
 
 I mostly work on questions like: *"How do we get generative models to do something meaningful, not random?"* or *"Can models learn from vision and language together without mountains of labels?"*
 
 I’ve collaborated with top academic labs, industry research teams, and startups to build practical generative pipelines. 
 
-If any of this sounds remotely interesting — or if you just want to chat about AI, life, or pandas — shoot me an email: **[rpramanik@cs.stonybrook.edu](mailto:rpramanik@cs.stonybrook.edu)**
+If any of this sounds remotely interesting — or if you just want to chat about AI, life, or pandas — shoot me an email: **[zhouchenyang2011@gmail.com](mailto:zhouchenyang2011@gmail.com)**
 
 ---
 
 ## 🔗 Where I exist on the internet (click to connect)
-- **[X (I still call it Twitter)](https://x.com/RishavPramanik)** → Mostly rants, occasional research, and life stuff.
 - **[Google Scholar](https://scholar.google.com/citations?user=HK0s3E0AAAAJ&hl=en)** → The serious academic side.
 - **[LinkedIn](https://www.linkedin.com/in/rishavpramanik/)** → Work things. Collaboration stuff. Pretending to be formal.
 
