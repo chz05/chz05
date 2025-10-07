@@ -13,20 +13,6 @@ If any of this sounds remotely interesting — or if you just want to chat about
 
 ---
 
-## 🔗 Where I exist on the internet (click to connect)
-- **[Google Scholar](https://scholar.google.com/citations?user=HK0s3E0AAAAJ&hl=en)** → The serious academic side.
-- **[LinkedIn](https://www.linkedin.com/in/rishavpramanik/)** → Work things. Collaboration stuff. Pretending to be formal.
-
----
-
-## 📊 GitHub Stuff
-![Profile Views](https://komarev.com/ghpvc/?username=rishavpramanik&color=blue)
-
-![Rishav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rishavpramanik&show_icons=true&theme=cobalt&count_private=true)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=rishavpramanik&theme=gotham&hide_border=true&border_radius=4.7&date_format=j%20M%5B%20Y%5D&mode=weekly&count_private=true)](https://git.io/streak-stats)
-
----
 
 ## 🐼 Pandas. Yes, Really.
 
