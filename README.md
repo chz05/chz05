@@ -1,15 +1,10 @@
-[![LinkedIn Badge](https://img.shields.io/badge/-rishavpramanik-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rishavpramanik/)](https://www.linkedin.com/in/rishavpramanik/)
-![GitHub followers](https://img.shields.io/github/followers/rishavpramanik?style=social)
-
 # 👋 Hi, this is Chenyang Zhou
 
-I’m a Master student at **Columbia University, New York**, trying to figure out how to make AI a bit more sensible, controllable, and interpretable, particularly in the space of **generative models and multimodal learning**. Before this, I did my undergrad in **Computer Science** from **UCSD**.
+I’m a Master student at **Columbia University, New York**, doing research in compiler and computer architecture. Before this, I did my undergrad in **Computer Science** from **UCSD**.
 
-I mostly work on questions like: *"How do we get generative models to do something meaningful, not random?"* or *"Can models learn from vision and language together without mountains of labels?"*
+I mostly work on simulation and modeling for hardware resources and hardware accelerators.
 
-I’ve collaborated with top academic labs, industry research teams, and startups to build practical generative pipelines. 
-
-If any of this sounds remotely interesting — or if you just want to chat about AI, life, or pandas — shoot me an email: **[zhouchenyang2011@gmail.com](mailto:zhouchenyang2011@gmail.com)**
+If any of this sounds remotely interesting — or if you just want to chat about computer architecture, compiler, life, or pandas — shoot me an email: **[zhouchenyang2011@gmail.com](mailto:zhouchenyang2011@gmail.com)**
 
 ---
 
