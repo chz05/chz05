@@ -30,15 +30,18 @@
 
 ## 🔬 Research Interests
 > **Hardware Accelerators**  
-> I work on developing advanced AI models that can simultaneously handle multiple diagnostic tasks while effectively integrating various types of medical data (imaging, clinical notes, lab results) to provide more comprehensive and accurate medical assessments.  
+> I specialize in designing and developing next-generation hardware accelerators that dramatically improve computational performance across diverse workloads. My research focuses on creating specialized architectures that can deliver orders of magnitude speedup for AI/ML, scientific computing, and data-intensive applications.
 >   
-> **Simulation and Tools**  
-> I am dedicated to developing intelligent healthcare agents that make medical resources and consultations more accessible and convenient for everyone. This includes creating AI systems that can provide preliminary medical advice, assist in resource allocation, and bridge the gap between patients and healthcare providers.
+> **Hardware-Software Codesign**  
+> I am passionate about bridging the gap between hardware capabilities and software efficiency through innovative codesign approaches. My work explores how to co-optimize algorithms, software frameworks, and hardware architectures to achieve maximum performance and energy efficiency.
+>   
+> **Simulation and Modeling Tools**  
+> I am actively developing advanced simulation frameworks, including the Assassyn project and multi-accelerator simulation platforms. My objective is to create unified, user-friendly, and highly performant simulation tools that provide sufficient architectural details while maintaining fast execution speeds for both research and industry applications.
 
 ---
 
 ## 🌱 Long-term Vision
-> I aspire to become a compound talent who deeply understands large-scale medical data, multi-modal learning, and end-to-end clinical applications.  My long-term goal is to bridge cutting-edge AI research and real-world healthcare impact, driving both technical innovation and product commercialization. Ultimately, I hope to promote a more equitable distribution of medical resources, enabling better healthcare access and outcomes for all, and bringing broader benefits to society.
+> I aspire to become a leading researcher and innovator in computer architecture and systems design, with deep expertise in hardware accelerators, simulation frameworks, and performance optimization. My long-term goal is to develop cutting-edge tools and methodologies that become widely adopted across both academia and industry, driving significant improvements in computer performance and computational efficiency. Ultimately, I hope to democratize access to high-performance computing through innovative hardware-software solutions, enabling researchers and practitioners to tackle increasingly complex computational challenges and accelerating scientific discovery across multiple domains.
 
 
 ---
